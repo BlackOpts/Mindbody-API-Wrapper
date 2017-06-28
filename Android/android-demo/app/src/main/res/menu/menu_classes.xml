@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.demo.mbapi.mbapidemo.ClassRegistration.ClassesActivity">
+
+    <item
+        android:id="@+id/action_classes_today"
+        android:title="Today"
+        android:textAllCaps="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_classes_prev"
+        android:title="Prev"
+        android:textAllCaps="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_classes_next"
+        android:title="Next"
+        android:textAllCaps="false"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.demo.mbapi.mbapidemo.ClientProfile.ClientProfileActivity">
+
+    <item
+        android:id="@+id/action_reset_password"
+        android:title="Reset Password"
+        android:textAllCaps="false"
+        app:showAsAction="ifRoom"/>
+</menu>
